@@ -19,4 +19,12 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
