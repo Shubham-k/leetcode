@@ -12,6 +12,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubham-k/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubham-k/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubham-k/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0226-invert-binary-tree) |
 ## Array
 |  |
@@ -56,4 +59,5 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
