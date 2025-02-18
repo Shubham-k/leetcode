@@ -14,6 +14,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
 | ------- |
@@ -60,4 +63,12 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
