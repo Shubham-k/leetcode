@@ -63,10 +63,12 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0098-validate-binary-search-tree](https://github.com/Shubham-k/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shubham-k/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shubham-k/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
