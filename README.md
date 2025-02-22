@@ -63,6 +63,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shubham-k/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubham-k/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
