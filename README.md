@@ -62,6 +62,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Shubham-k/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shubham-k/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
