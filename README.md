@@ -64,6 +64,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Shubham-k/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -90,6 +92,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## String Matching
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubham-k/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
