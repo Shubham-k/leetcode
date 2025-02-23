@@ -74,6 +74,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## String Matching
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shubham-k/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -112,6 +114,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0015-3sum](https://github.com/Shubham-k/leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
