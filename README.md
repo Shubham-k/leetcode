@@ -139,4 +139,12 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham-k/leetcode/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
