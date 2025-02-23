@@ -1,18 +1,15 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string str = to_string(x);
-        int low = 0;
-        int high = str.length() - 1;
+        long int rev = 0;
+        int dup = x;
 
-        while(low <= high){
-            if(str[low] != str[high]){
-                return false;
-            }
-            low++;
-            high--;
+        while (dup > 0) {
+            int rmd = dup % 10;
+            rev = (rev * 10) + rmd;
+            dup = dup / 10;
         }
 
-        return true;
+        return rev == x;
     }
 };
