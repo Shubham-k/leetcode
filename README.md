@@ -76,6 +76,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0001-two-sum](https://github.com/Shubham-k/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Shubham-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -131,6 +132,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubham-k/leetcode/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/Shubham-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shubham-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
