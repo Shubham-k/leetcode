@@ -87,6 +87,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shubham-k/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham-k/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shubham-k/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shubham-k/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
