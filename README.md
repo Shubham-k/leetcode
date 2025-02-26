@@ -96,6 +96,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubham-k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubham-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Shubham-k/leetcode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Shubham-k/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shubham-k/leetcode/tree/master/0739-daily-temperatures) |
 ## String Matching
@@ -114,6 +115,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shubham-k/leetcode/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shubham-k/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
