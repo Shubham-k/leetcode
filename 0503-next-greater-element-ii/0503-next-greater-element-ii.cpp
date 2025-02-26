@@ -12,10 +12,9 @@ public:
             nums[i] = nums[i - n];
         }
 
-        reverse(nums.begin(), nums.end());
         vector<int> ans;
         stack<int> st;
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i = nums.size() - 1; i >= 0; i--) {
             while (!st.empty() && st.top() <= nums[i]) {
                 st.pop();
             }
@@ -24,7 +23,6 @@ public:
             st.push(nums[i]);
             ans.push_back(res);
         }
-
         reverse(ans.begin(), ans.end());
         vector<int> firstHalf(ans.begin(), ans.begin() + ans.size() / 2);
 
