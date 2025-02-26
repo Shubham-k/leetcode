@@ -1,36 +1,33 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        // 1 2 3  4  3  1 2 3 4  3
-        // 2 3 4 -1  4  2 3 4 -1 -1
-
-        // 3  4  3  2  1 3  4 3 2 1
-        // -1 -1 4  3  2 4 -1 4 3 2
-
+        // 1 2 3 4  3 1 2 3 4  3
         // 2 3 4 -1 4 2 3 4 -1 -1
+
+        // 3   4 3 2 1 3 4  3 2 1
+        // -1 -1 4 3 2 4 -1 4 3 2
         int n = nums.size();
-        nums.resize(2*n);
+        nums.resize(n * 2);
         for (int i = n; i < nums.size(); i++) {
             nums[i] = nums[i - n];
         }
 
         reverse(nums.begin(), nums.end());
-        stack<int> s;
-        s.push(nums[0]);
-
         vector<int> ans;
-        ans.push_back(-1);
-        for (int i = 1; i < nums.size(); i++) {
-            while (!s.empty() && s.top() <= nums[i])
-                s.pop();
+        stack<int> st;
+        for (int i = 0; i < nums.size(); i++) {
+            while (!st.empty() && st.top() <= nums[i]) {
+                st.pop();
+            }
 
-            int res = s.empty() ? -1 : s.top();
+            int res = st.empty() ? -1 : st.top();
+            st.push(nums[i]);
             ans.push_back(res);
-            s.push(nums[i]);
         }
 
         reverse(ans.begin(), ans.end());
-        vector<int> firstHalf(ans.begin(), ans.begin() + ans.size()/2);
+        vector<int> firstHalf(ans.begin(), ans.begin() + ans.size() / 2);
+
         return firstHalf;
     }
 };
