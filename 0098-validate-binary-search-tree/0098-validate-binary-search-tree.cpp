@@ -18,6 +18,7 @@ public:
         if (root == NULL) {
             return;
         }
+
         isValidBSTHelper(root->left);
         v.push_back(root->val);
         isValidBSTHelper(root->right);
@@ -26,8 +27,8 @@ public:
     bool isValidBST(TreeNode* root) {
         isValidBSTHelper(root);
 
-        for (int i = 1; i < v.size(); i++) {
-            if (v[i] <= v[i - 1]) {
+        for(int i=1;i<v.size();i++){
+            if(v[i]<=v[i-1]){
                 return false;
             }
         }
