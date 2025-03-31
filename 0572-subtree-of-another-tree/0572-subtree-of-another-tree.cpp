@@ -16,34 +16,37 @@ public:
         if (p == NULL && q == NULL) {
             return true;
         }
-        if (p == NULL && q != NULL || q == NULL && p != NULL) {
+
+        if (p == NULL && q != NULL || p != NULL && q == NULL) {
             return false;
         }
+
         if (p->val != q->val) {
             return false;
         }
 
-        bool leftSame = isSameTree(p->left, q->left);
-        bool rightSame = isSameTree(p->right, q->right);
-        return leftSame && rightSame;
+        bool leftTree = isSameTree(p->left, q->left);
+        bool rightTree = isSameTree(p->right, q->right);
+
+        return leftTree && rightTree;
     }
 
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if (subRoot == NULL) {
-            return true;
-        }
-
         if (root == NULL) {
             return false;
+        }
+
+        if (subRoot == NULL) {
+            return true;
         }
 
         if (isSameTree(root, subRoot)) {
             return true;
         }
 
-        bool left = isSubtree(root->left, subRoot);
-        bool right = isSubtree(root->right, subRoot);
+        bool leftTree = isSubtree(root->left, subRoot);
+        bool rightTree = isSubtree(root->right, subRoot);
 
-        return left || right;
+        return leftTree || rightTree;
     }
 };
