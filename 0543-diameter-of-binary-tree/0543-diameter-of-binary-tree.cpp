@@ -13,15 +13,13 @@
 class Solution {
 public:
     int diameter = 0;
-
-    int diameterHelper(TreeNode* node) {
-        if (node == NULL) {
+    int diameterHelper(TreeNode* root) {
+        if (root == NULL) {
             return 0;
         }
 
-        int leftHeight = diameterHelper(node->left);
-        int rightHeight = diameterHelper(node->right);
-
+        int leftHeight = diameterHelper(root->left);
+        int rightHeight = diameterHelper(root->right);
         diameter = max(diameter, leftHeight + rightHeight);
 
         return max(leftHeight, rightHeight) + 1;
