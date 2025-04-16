@@ -24,20 +24,15 @@ public:
         stack<pair<int, int>> s;
         vector<int> ans;
 
-        int index = 0;
-        s.push({temperatures[0], index});
-        ans.push_back(0);
-
-        for (int i = 1; i < temperatures.size(); i++) {
-            index++;
+        for (int i = 0; i < temperatures.size(); i++) {
 
             while (!s.empty() && s.top().first <= temperatures[i]) {
                 s.pop();
             }
 
-            int res = s.empty() ? 0 : index - s.top().second;
+            int res = s.empty() ? 0 : i - s.top().second;
             ans.push_back(res);
-            s.push({temperatures[i], index});
+            s.push({temperatures[i], i});
         }
 
         reverse(ans.begin(), ans.end());
