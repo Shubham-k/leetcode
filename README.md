@@ -203,4 +203,8 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Shubham-k/leetcode/tree/master/0937-online-stock-span) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shubham-k/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
