@@ -74,6 +74,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shubham-k/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Shubham-k/leetcode/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Shubham-k/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubham-k/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shubham-k/leetcode/tree/master/0739-daily-temperatures) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Shubham-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Shubham-k/leetcode/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/Shubham-k/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
