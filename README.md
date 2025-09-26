@@ -72,6 +72,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubham-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Shubham-k/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Shubham-k/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shubham-k/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shubham-k/leetcode/tree/master/0283-move-zeroes) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shubham-k/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Shubham-k/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Shubham-k/leetcode/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Shubham-k/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shubham-k/leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Shubham-k/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
@@ -163,6 +165,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | ------- |
 | [0009-palindrome-number](https://github.com/Shubham-k/leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubham-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Shubham-k/leetcode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
 | ------- |
