@@ -68,6 +68,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0015-3sum](https://github.com/Shubham-k/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shubham-k/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Shubham-k/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Shubham-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shubham-k/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shubham-k/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubham-k/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shubham-k/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Shubham-k/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shubham-k/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Shubham-k/leetcode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
