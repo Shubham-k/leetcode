@@ -79,6 +79,7 @@ A collection of LeetCode questions with C++ to ace the coding interview! - Creat
 | [0503-next-greater-element-ii](https://github.com/Shubham-k/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shubham-k/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Shubham-k/leetcode/tree/master/0739-daily-temperatures) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Shubham-k/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
