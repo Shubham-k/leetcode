@@ -10,6 +10,7 @@ public:
             } else {
                 v.push_back(i);
                 v.push_back(m[target - nums[i]]);
+                break;
             }
         }
 
