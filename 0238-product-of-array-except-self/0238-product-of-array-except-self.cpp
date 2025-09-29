@@ -1,30 +1,29 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        // [2,3,4,5]
-        // [60,40,30,24]
+        // 0 1 2 3
+        // 2 3 4 5
 
-        vector<int> prefixProduct(nums.size() + 1);
-        vector<int> suffixProduct(nums.size() + 1);
-        prefixProduct[0] = 1;
-        suffixProduct[nums.size()] = 1;
+        int n = nums.size();
+        vector<int> preficsProduct(n + 1);
+        vector<int> suffixProduct(n + 1);
 
-        for (int i = 1; i < nums.size() + 1; i++) {
-            prefixProduct[i] = prefixProduct[i - 1] * nums[i - 1];
+        // Prepare prefixProductArray
+        preficsProduct[0] = 1;
+        for (int i = 1; i < preficsProduct.size(); i++) {
+            preficsProduct[i] = preficsProduct[i - 1] * nums[i - 1];
         }
 
-        for (int i = nums.size() - 1; i >= 0; i--) {
-            suffixProduct[i] = suffixProduct[i + 1] * nums[i];
+        // Prepare suffixProductArray
+        suffixProduct[suffixProduct.size() - 1] = 1;
+        for (int i = suffixProduct.size() - 2; i >= 0; i--) {
+            suffixProduct[i] = nums[i] * suffixProduct[i + 1];
         }
 
-        for (int i = 0; i < nums.size(); i++) {
-            nums[i] = prefixProduct[i] * suffixProduct[i + 1];
+        for (int i = 0; i < n; i++) {
+            nums[i] = preficsProduct[i] * suffixProduct[i + 1];
         }
 
         return nums;
-
-        // 0   1  2  3  4
-        // 1   2  6  24 120
-        // 120 60  20  5  1
     }
 };
