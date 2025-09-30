@@ -19,10 +19,6 @@ public:
             }
         }
 
-        if (m.size() == 0) {
-            return true;
-        }
-
-        return false;
+        return m.empty() == true;
     }
 };
