@@ -1,38 +1,35 @@
 class Solution {
 public:
+    bool isBraketMatching(char a, char b) {
+        if (a == '(' && b == ')')
+            return true;
+        else if (a == '[' && b == ']')
+            return true;
+        else if (a == '{' && b == '}')
+            return true;
+        else
+            return false;
+    }
+
     bool isValid(string s) {
-        stack<char> st;
-        for (int i = 0; i < s.size(); i++) {
+        stack<char> stack;
+
+        for (int i = 0; i < s.length(); i++) {
             if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
-                st.push(s[i]);
+                stack.push(s[i]);
             } else {
-                if (st.empty()) {
-                    return false;
-                }
-                if (!isBracketMatching(st.top(), s[i])) {
+                if (stack.empty()) {
                     return false;
                 }
 
-                st.pop();
+                if (!isBraketMatching(stack.top(), s[i])) {
+                    return false;
+                }
+
+                stack.pop();
             }
         }
 
-        return st.empty() == true;
-    }
-
-    bool isBracketMatching(char a, char b) {
-        if (a == '(' && b == ')') {
-            return true;
-        }
-
-        if (a == '[' && b == ']') {
-            return true;
-        }
-
-        if (a == '{' && b == '}') {
-            return true;
-        }
-
-        return false;
+        return stack.empty() == true;
     }
 };
